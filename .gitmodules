@@ -1,0 +1,3 @@
+[submodule "examples/w25qxx"]
+	path = examples/w25qxx
+	url = https://github.com/nimaltd/w25qxx.git
